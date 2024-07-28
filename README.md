@@ -1,4 +1,4 @@
-# TAREA_1
+# HOJA_DE_TRABAJO_1
 Hoja de trabajo 1
 
 **Una breve descripción del proyecto:**
