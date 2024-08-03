@@ -11,3 +11,10 @@ https://celadon-lebkuchen-02304b.netlify.app/
 **El nombre del estudiante que desarrolló la página web:**
 
 _Paula Guicell Suy Rivera - 9490 21 6053_
+
+**Enalece de sitio web de la rama estilizacion:**
+https://ramastilizacion.netlify.app/
+
+**Una breve descripción del uso de css:**
+
+Se agregaron etiquetas y estilos para una mejor visualización y para que sea una interfaz más agradable. Se agregan titulos, contenedores, colores, imagenes como galeria y como fondo
