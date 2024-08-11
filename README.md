@@ -18,3 +18,10 @@ https://ramastilizacion.netlify.app/
 **Una breve descripción del uso de css:**
 
 Se agregaron etiquetas y estilos para una mejor visualización y para que sea una interfaz más agradable. Se agregan titulos, contenedores, colores, imagenes como galeria y como fondo
+
+**Enalece de sitio web de la rama bootstrap:**
+
+
+**Una breve descripción del uso de bootstrap:**
+
+Bootstrap se utilizó para estructurar y mejorar la apariencia del sitio web de manera eficiente. Bootstrap fue esencial para estructurar, diseñar y garantizar la responsividad de las páginas, permitiendo que se desarrollaran rápidamente con un estilo moderno y consistente.
