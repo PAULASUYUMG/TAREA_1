@@ -1,0 +1,44 @@
+
+        body {
+            font-family: 'Arial', sans-serif;
+        }
+        .navbar {
+            margin-bottom: 50px;
+        }
+        .hero-section {
+            background-image: url('img/sanpedro1.jpg');
+            background-size: cover;
+            background-position: center;
+            color: white;
+            padding: 100px 0;
+            text-align: center;
+        }
+        #descripcion {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+        }
+        #comentarios {
+            background-color: #e9ecef;
+            padding: 30px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+        #comentarios-lista {
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        .carousel-inner img {
+            height: 500px;
+            object-fit: cover;
+        }
+        .modal-content {
+            background-color: #f8f9fa;
+        }
+        footer {
+            margin-top: 50px;
+            background-color: #343a40;
+            color: white;
+            padding: 20px 0;
+        }
